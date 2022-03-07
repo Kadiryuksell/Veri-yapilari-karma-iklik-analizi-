@@ -1,0 +1,10 @@
+C:\Users\Kadır\Desktop\Lab örneği\Karmaşık Analizi\Karmaşık Analizi\obj\Debug\Karmaşık Analizi.csproj.AssemblyReference.cache
+C:\Users\Kadır\Desktop\Lab örneği\Karmaşık Analizi\Karmaşık Analizi\obj\Debug\Karmaşık_Analizi.S.resources
+C:\Users\Kadır\Desktop\Lab örneği\Karmaşık Analizi\Karmaşık Analizi\obj\Debug\Karmaşık_Analizi.Properties.Resources.resources
+C:\Users\Kadır\Desktop\Lab örneği\Karmaşık Analizi\Karmaşık Analizi\obj\Debug\Karmaşık Analizi.csproj.GenerateResource.cache
+C:\Users\Kadır\Desktop\Lab örneği\Karmaşık Analizi\Karmaşık Analizi\obj\Debug\Karmaşık Analizi.csproj.CoreCompileInputs.cache
+C:\Users\Kadır\Desktop\Lab örneği\Karmaşık Analizi\Karmaşık Analizi\bin\Debug\Karmaşık Analizi.exe.config
+C:\Users\Kadır\Desktop\Lab örneği\Karmaşık Analizi\Karmaşık Analizi\bin\Debug\Karmaşık Analizi.exe
+C:\Users\Kadır\Desktop\Lab örneği\Karmaşık Analizi\Karmaşık Analizi\bin\Debug\Karmaşık Analizi.pdb
+C:\Users\Kadır\Desktop\Lab örneği\Karmaşık Analizi\Karmaşık Analizi\obj\Debug\Karmaşık Analizi.exe
+C:\Users\Kadır\Desktop\Lab örneği\Karmaşık Analizi\Karmaşık Analizi\obj\Debug\Karmaşık Analizi.pdb
